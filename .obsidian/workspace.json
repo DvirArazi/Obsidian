@@ -142,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 520.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,7 +155,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ea3cdbefd92162c3",
+  "active": "366279f8c9952dc1",
   "lastOpenFiles": [
     "TS Magic.md"
   ]
